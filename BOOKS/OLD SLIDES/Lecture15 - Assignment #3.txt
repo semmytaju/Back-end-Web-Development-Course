@@ -1,2 +1,0 @@
-Jelaskan tentang Bootstrap [open-source CSS framework]
-dan berikan contoh penggunaan dan implementasi bootstrap.

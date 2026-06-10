@@ -1,6 +1,0 @@
-Check all exercises:
-Lecture3 - PHP Programming [PHP Web Development]
-Lecture5 - Cookies, Session and HTAccess
-Lecture7 - Magic Constants in PHP
-Lecture8 - Ajax for PHP Web Applications
-Lecture9 - Framework #1 MVC File & Folder Structure
